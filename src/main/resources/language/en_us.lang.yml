@@ -41,6 +41,7 @@ help:
 
 freeze: "<aqua><gray>{target}</gray> is now frozen.</aqua>"
 unfreeze: "<aqua><gray>{target}</gray> is no longer frozen.</aqua>"
+freeze-time: "<aqua><gray>{target}</gray> is now frozen for {duration} seconds.<aqua>"
 freeze-all: "<aqua>Successfully froze <gray>{amount}</gray> players.</aqua>"
 freeze-all-failure: "<red>There are no players online or all players are immune.</red>"
 unfreeze-all: "<aqua>Successfully unfroze <gray>{amount}</gray> players.</aqua>"
